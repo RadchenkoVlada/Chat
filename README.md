@@ -1,5 +1,6 @@
 # Chat
-## Description
+A chat application with Django Channels. Channels allows Django to support WebSockets in a way that’s very similar to 
+traditional HTTP views.\
 In this chat, such cases are implemented.
 
 * Possibility to chat for 2 people
@@ -51,5 +52,3 @@ https://channels.readthedocs.io/en/latest/index.html
 
 2.Chat templates: Like Hangout Chat
 https://bootsnipp.com/snippets/2zyo
-
-3.
